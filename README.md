@@ -7,7 +7,7 @@ and wide for a course or something to explain to me what AI is. Outside of AI ha
 myself until they made sense to me. If you are in the position I was in, where you were searching for something more tangible and beyond the think pieces of ethics of AI or
 over simplified functional use cases. This is a good project to play around with. A lot of the code in here was learned from a brilliant man called Ed Donner, cant stress enough 
 how brilliant the man is and how he technically got me as half excited as he is about AI. Dont know if any of us can really match his excitement :)
-I made this project my own. if you have taken Ed's classes you will see how drastically different my project is but how it falls the same AI pattern of having one agent do work,
+I made this project my own. if you have taken Ed's classes you will see how drastically different my project is but how it follows the same AI pattern of having one agent do work,
 then having another agent validate the response. Which is such a neat trick for lessening hallucinations. 
 
 Things you can improve on when making this yours
