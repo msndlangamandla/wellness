@@ -20,3 +20,4 @@ Things That I put effort in that were not in Ed's course
 1. adding a database aka file to save the weekly workout plan
 2. also all the database functions to interact with said database
 3. making the agent to start from a prompt requirement vs empowering it with a file of information to be an expert at saying something about someone. this will go over your head if you didnt take Ed's class but that is ok. really not important but worth mentioning for those to whom it will make sense to.
+4. also adding the responseModelFormat model. I wanted a structured response from the agent and it was fun to play around with this.
