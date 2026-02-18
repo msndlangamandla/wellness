@@ -13,7 +13,7 @@ then having another agent validate the response. Which is such a neat trick for 
 Things you can improve on when making this yours
 1. my responseModelFormat model -- I am interested in knowing if its possible to not have to spell out all the days of the week. if that could be automated somehow. I will probabaly explore this further. Just not at this moment, but if you figure this out, i would like to hear/see
 2. this point is related to 1st one, but would be nice to sort of iterate over the days when calling save_plans instead of calling them out
-3. fun things to also add that i will definitely add later -- using gradio (reason wasnt so keen this time around is for mom to use this fully i would have to host this vs my thought process of just sending her an email of her working plan each week from here)
+3. fun things to also add that i will definitely add later -- using gradio (reason wasnt so keen this time around, is because for mom to use this fully i would have to host this vs my thought process of just sending her an email of her workout plan each day of the week from here)
 
 
 Things That I put effort in that were not in Ed's course
