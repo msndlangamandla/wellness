@@ -1,7 +1,7 @@
 # wellness
 I was explaining what AI is to my mother. In true mom fashion, she requested for me to make her a fitness agent. 
 
-If like me, you are struggling wrapping your mind around what AI is and what has it got to do with you. This is a fun way to understand it in a way that make a lot of sense to me.
+If like me, you are struggling wrapping your mind around what AI is and what it has got to do with you. This is a fun way to understand it in a way that make a lot of sense to me.
 I am a data person, have been in the data space professionally for 14 years now. I like to get my hands dirty when trying to understand a concept. I had been searching far
 and wide for a course or something to explain to me what AI is. Outside of AI hahah jokes. I did ask AI but what i was lacking was practicals. To actually work with LLM(s) 
 myself until they made sense to me. If you are in the position I was in, where you were searching for something more tangible and beyond the think pieces of ethics of AI or
