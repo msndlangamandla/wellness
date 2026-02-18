@@ -21,3 +21,12 @@ Things That I put effort in that were not in Ed's course
 2. also all the database functions to interact with said database
 3. making the agent to start from a prompt requirement vs empowering it with a file of information to be an expert at saying something about someone. this will go over your head if you didnt take Ed's class but that is ok. really not important but worth mentioning for those to whom it will make sense to.
 4. also adding the responseModelFormat model. I wanted a structured response from the agent and it was fun to play around with this.
+
+Things That I Struggled With
+1. differences between openai.chat.completions.parse and openai.chat.completions.content in connection to wanting to return a structured format model.
+2. structured format model and how to pass it to openai.chat.completions.content. before figuring out the differences mentioned on step above, i kept hitting the wall on what wrong. I do use cursor by the way.
+3. Even though I had gone through an example in the course, I just struggled getting this up and running on its own folder and connecting the dots. This was my 3rd attempt at doing my "owm" thing.
+
+Things I truly Enjoyed!
+1. using cursor --> i didnt write any of the python code, I do hold a bachelor's degree in computer science major and we did use python in most of our classes aside languages class and even where you could use any language, I opted for python. It was easier. I say this to say, some familiarity with the language or at least reading code is still needed but at this point if you are writing your own word by word code when vibe coding. Somethings is not vibing well. :) see what i did there :)
+2. I enjoyed seeing this compile and also figuring out how to access the structured output aka model output. was fun. Funny how everything almost always boils down to data structures.
